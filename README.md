@@ -2,6 +2,8 @@
 
 My name is Fergus.  I am currently working on learning web development to help change careers!
 
+I am participating in the #100daysofcode challenge in tandem with the School of Code.  I will be documenting what I worked on in this README
+
 <!--
 **fergus-g/fergus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
